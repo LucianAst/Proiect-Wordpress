@@ -1,0 +1,189 @@
+*{
+    background-color: #e5e5e5;
+}
+p{
+    background-color: #FFFFFF;
+}
+h1{
+    background-color: #FFFFFF;
+}
+
+.header{
+background-color: #FFFFFF;
+box-sizing: border-box;
+position: brelative;
+}
+
+.container{
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    position: absolute;
+    background: #FFFFFF;
+    width: 970px;
+    height: 467px;
+    left: 41px;
+    margin-left: 346px;
+}
+.header h1{
+    background-color: #FFFFFF;
+    position: relative;
+    font: 48;
+}
+
+.my-picture{
+    background-color: #FFFFFF;
+    position: absolute;
+    width: 325.72px;
+    height: 459.09px;
+    top: 8px;
+    left: 700.68px;
+    right: 57.6px;
+    opacity: 100%;
+}
+.hire-me{
+    background-color: orange;
+    width: 154px;
+    height: 51px;
+    text-align: center;
+}
+
+.header-myname{
+    background-color: #FFFFFF;
+    position: relative;  
+}
+.header-aboutme{
+    font-family: 'Inter', sans-serif;
+    font-style: black;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    vertical-align: top;
+    width: 424px;
+    height: 88px;
+}
+
+.left-menu{
+  background-color: #FFFFFF;
+  width: 305px;
+  height: 1315px;
+}
+
+
+.nav-container-left{
+    background-color: white;
+    width: 219px;
+    height: 281px;
+    top: 50px;
+    left: 40px;
+    right: 38px;
+}
+ 
+.nav-picture{
+    background-color: white;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 74px;
+    top: 50px;
+}
+
+.personal-container{
+    background-color: white;
+    width: 220px;
+    height: 126px;
+    top: 381px;
+    left: 40px;
+}
+
+.age-container{
+    background-color: white;
+    width: 220px;
+    height: 25px;
+    top: 381px;
+    left: 40px;
+    }
+.age{
+    background-color: white;
+    position: absolute;
+
+}
+
+
+.right-menu{
+    background-color: #FFFFFF;
+    position: relative;
+    margin-top: -2000px;
+    margin-left: 1500px;
+    width: 108px;
+    height: 1315px;
+}
+
+.nav-container{
+    background-color: #FFFFFF;
+    margin-top: 0px;
+    width: 108px;
+    height: 1315px;
+}
+
+.nav-available{
+    position: absolute;
+    color: #7EB942;
+    width:16px;
+    height: 16px;
+    left: 198px;
+    top: 166px;
+    fill: solid;
+    border-radius: 10px;
+}
+
+.nav-name{
+    position: absolute;
+    background-color: white;
+    width: 142px;
+    height: 22px;
+    left: 77px;
+    top: 231px;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+}
+
+.nav-job{
+    position:absolute;
+    background-color: white;
+    width: 143px;
+    height: 24px;
+    left: 78px;
+    top: 268px;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.media-icons{
+    background-color: white;
+    position: absolute;
+    width: 219px;
+    height: 24px;
+    top: 307px;
+    left: 40px;
+    
+}
+
+
+.container-sm{
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    position: relative;
+    width: 970px;
+    height: 653px;
+    margin-left: 335px;
+    margin-top: 137.91px;
+    margin-right: 135;
+}
+.section{
+    background-color: #FFFFFF;
+    position: relative;
+}
